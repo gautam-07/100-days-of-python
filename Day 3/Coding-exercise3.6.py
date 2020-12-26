@@ -1,4 +1,6 @@
 # Welcome to the Treasure Island Game
+
+
 print('''
 *******************************************************************************
           |                   |                  |                     |
@@ -42,6 +44,7 @@ elif direction == "L" or direction == "l":
       elif decision2 == "Blue" or decision2 == "Blue":
          print("You were eaten by a giant snake.Game Over")
       elif decision2 == "Yellow" or decision2 == "yellow":
-         print("You safely got the treasure.You won the game. Congratulations")     
+         print("You safely got the treasure.You won the game. Congratulations") 
+
 else:
    print("Wrong input. Play again")
