@@ -3,7 +3,9 @@ In this repository, I am sharing my journey of 100 days of Code Complete Python 
 ### Course Link:-
 https://www.udemy.com/course/100-days-of-code/
 ## The Journey Begins:-
-Learning Python is not that esay that people make it sound like. C++ is a lot easier than this. LOL 😅
+<li>Day 1   :-Learning Python is not that esay that people make it sound like. C++ is a lot easier than this. LOL 😅</li>
+<li>Day 100 :- ?</li>
+
 ## Beginner Stage:-
 <li>Day 1 - Working with variables.</li>
 <li>Day 2 - Understanding Data Types and how to manipulate Strings.</li>
