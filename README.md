@@ -1,6 +1,7 @@
 # 100-days-of-python
 In this repository, I am sharing my journey of 100 days of Code Complete Python Developer Bootcamp by Dr. Angela Yu on Udemy.
-## The Journey:-
+## The Journey Begins:-
+Learning Python is not that esay that people make it sound like. C++ is a lot easier than this. LOL 😅
 ## Beginner Stage:-
 <li>Day 1 - Working with variables.</li>
 <li>Day 2 - Understanding Data Types and how to manipulate Strings.</li>
