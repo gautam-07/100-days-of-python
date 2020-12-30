@@ -11,22 +11,5 @@ In this repository, I am sharing my journey of 100 days of Code Complete Python 
 <li>Day 7 - Hangman Game</li>
 <li>Day 8 - Function Parameters</li>
 <li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+
+
