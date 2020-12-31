@@ -1,10 +1,15 @@
+# ******************************************************
+# ✥ Title  :- Randomisation and Python Lists
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 27 December 2020
+# ******************************************************
+# ✥ Lists Introduction and Russian Roulette 
+# ******************************************************
+
 # Lists are arrays in python.
 # eg- states_in_india = ["Jammu & Kashmir", "Uttrakhand", "Chattisgarh", "Delhi", "Punjab", "Haryana", "Sikkim" "etc"]
 
 # In lists we can also use negative index like -1,-2,-3. It will then start counting from the end of the list.
-
-
-# Write a program to implement Russian Roulette - Who will pay the bill?
 
 import random
 

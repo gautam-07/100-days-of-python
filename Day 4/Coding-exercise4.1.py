@@ -1,4 +1,10 @@
-# Understand random module in python. 
+# ******************************************************
+# ✥ Title  :- Randomisation and Python Lists
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 27 December 2020
+# ******************************************************
+# ✥ Introduction to random module
+# ******************************************************
 
 import random
 

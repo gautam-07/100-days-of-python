@@ -1,4 +1,10 @@
-# Make a rock, paper, scissors game.
+# ******************************************************
+# ✥ Title  :- Randomisation and Python Lists
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 27 December 2020
+# ******************************************************
+# ✥ Rock, Paper, Scissors Game
+# ******************************************************
 import random
 
 rock = '''

@@ -1,11 +1,19 @@
-# Nested Lists are 2d arrays of python
+# ******************************************************
+# ✥ Title  :- Randomisation and Python Lists
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 27 December 2020
+# ******************************************************
+# ✥ Treasure map exercise
+# ******************************************************
 
+
+# Nested Lists are 2d arrays of python
 # fruits = ["Strawberries","Apples","Grapes","Cherries"]
 # vegetables = ["Spinach","Kale","Tomatoes","Potatoes"]
 # dirty_dozen = [fruits , vegetables]
 
 
-#Treasure Map Exercise
+
 # Write a program that will mark a spot with an 'X'.
 
 # ['⬜️', '⬜️', '⬜️']
