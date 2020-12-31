@@ -1,4 +1,10 @@
-# Love Calculator.
+# ******************************************************
+# ✥ Title  :- Control flow and logical operators
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 26 December 2020
+# ******************************************************
+# ✥ Love Calculator
+# ******************************************************
 
 print("Welcome to Love Calculator")
 name1 = input("What is your name?: ")

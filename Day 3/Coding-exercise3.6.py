@@ -1,4 +1,10 @@
-# Welcome to the Treasure Island Game
+# ******************************************************
+# ✥ Title  :- Control flow and logical operators
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 26 December 2020
+# ******************************************************
+# ✥ Treasure Island Game
+# ******************************************************
 
 
 print('''

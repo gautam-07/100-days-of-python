@@ -1,10 +1,18 @@
-# You work at Python Pizza and your job is to calculate the bill.
+# ******************************************************
+# ✥ Title  :- Control flow and logical operators
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 26 December 2020
+# ******************************************************
+# ✥ Python Pizza Calculator.
+# ******************************************************
 # Small Pizza - $15
 # Medium Pizza - $20
 # Large Pizza - $25
 # Pepperoni for small pizza - +$2
 # Pepperoni for medium or large - +$3
 # Extra cheese for any size pizza - +$1
+# ******************************************************
+
 
 print("Welcome to the Python Pizza Deliveries")
 size = input("What size pizza do you want: S, M, L -> ")

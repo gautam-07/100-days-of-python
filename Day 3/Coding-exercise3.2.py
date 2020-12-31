@@ -1,4 +1,10 @@
-# Write a program that calculates BMI based on user's inputed weight and height
+# ******************************************************
+# ✥ Title  :- Control flow and logical operators
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 26 December 2020
+# ******************************************************
+# ✥ Modified B.M.I Calculator
+# ******************************************************
 
 height = float(input("Enter you height: "))
 weight = float(input("Enter your height"))

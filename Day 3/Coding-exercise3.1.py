@@ -1,4 +1,10 @@
-# Write a program to check whether a given number is odd or even.
+# ******************************************************
+# ✥ Title  :- Control flow and logical operators
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 26 December 2020
+# ******************************************************
+# ✥ Program to check whether a number is odd or even.
+# ******************************************************
 
 number = int(input("Enter a number: "))
 

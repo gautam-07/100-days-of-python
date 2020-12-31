@@ -1,4 +1,10 @@
-# Write a program to check whether a given year is leap or not.
+# ******************************************************
+# ✥ Title  :- Control flow and logical operators
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 26 December 2020
+# ******************************************************
+# ✥ Program to check whether a number is leap or not.
+# ******************************************************
 
 year = int(input("Enter a year: "))
 
