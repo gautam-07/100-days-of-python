@@ -1,6 +1,11 @@
-# Data Types
+# *********************************************************************
+# ✥ Title  :- Understanding Data Types and how to manipulate strings.
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 25 December 2020
+# *********************************************************************
+# ✥ String
+# *********************************************************************
 
-# String
 # Sub-scripting - Pulling an element out of a string is called sub scripting
 # eg - print("hello"[0])    It will print 'H'.
 print("Hello"[0])

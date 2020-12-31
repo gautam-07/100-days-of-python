@@ -1,3 +1,12 @@
+# *********************************************************************
+# ✥ Title  :- Understanding Data Types and how to manipulate strings.
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 25 December 2020
+# *********************************************************************
+# ✥ Program to tell remaining of life left if age is given 90.
+# *********************************************************************
+
+
 # In python we se round() function to round numbers.
 # print(round(8 / 3,2))
 
@@ -8,7 +17,7 @@
 # f-Strings
 # eg - f"Your age is {age}"
 
-# Coding Exercise : Create a program using maths and f-strings that tells us how many days, months, weeks we have left if we live until the age 90.
+
 
 age = int(input("What is your age: "))
 age_left = 90 - age

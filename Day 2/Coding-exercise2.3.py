@@ -1,4 +1,10 @@
-# BMI Calculator Exercise
+# *********************************************************************
+# ✥ Title  :- Understanding Data Types and how to manipulate strings.
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 25 December 2020
+# *********************************************************************
+# ✥ BMI Calculator
+# *********************************************************************
 
 height = input("enter your height in m: ")
 weight = input("enter your weight in  kg: ")

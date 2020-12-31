@@ -1,4 +1,10 @@
-# Program to print the sum of a two digit number
+# *********************************************************************
+# ✥ Title  :- Understanding Data Types and how to manipulate strings.
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 25 December 2020
+# *********************************************************************
+# ✥ Program to print sum of two digits.
+# *********************************************************************
 
 number = input("Type a two digit number : ")
 

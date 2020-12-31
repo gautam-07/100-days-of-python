@@ -1,4 +1,10 @@
-# Tip Calculator
+# *********************************************************************
+# ✥ Title  :- Understanding Data Types and how to manipulate strings.
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 25 December 2020
+# *********************************************************************
+# ✥ Tip Calculator
+# *********************************************************************
 
 print("Welcome to the tip calculator")
 
