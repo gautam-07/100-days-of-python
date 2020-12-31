@@ -1,4 +1,10 @@
-#Password Generator Project
+# ******************************************************
+# ✥ Title  :- Python loops
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 28 December 2020
+# ******************************************************
+# ✥ Password Generator
+# ******************************************************
 
 import random
 

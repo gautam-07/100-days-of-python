@@ -1,4 +1,10 @@
-# You are going to write a program that automatically prints the solution to the FizzBuzz game.
+# ******************************************************
+# ✥ Title  :- Python loops
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 28 December 2020
+# ******************************************************
+# ✥ FizzBuzz Game
+# ******************************************************
 
 # The fizz buzz game is a simple game in which if a multiple of 3 occurs we say "fizz" and if a multiple of 5 occurs we day "buzz" and if there is a number whose multiple is both 3 and 5 we say "fizzbuzz".
 

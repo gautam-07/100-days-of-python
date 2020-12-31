@@ -1,4 +1,10 @@
-# Write a program to calculate highest score from a list of scores.
+# ******************************************************
+# ✥ Title  :- Python loops
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 28 December 2020
+# ******************************************************
+# ✥ Program to calculate highest score from a list
+# ******************************************************
 
 score_list = input("Enter a list of score: ").split()
 

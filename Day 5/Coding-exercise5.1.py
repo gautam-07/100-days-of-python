@@ -1,6 +1,10 @@
-# Python Loops
-# For loops
-#Write a program that calculates a average height from list of heights.
+# ******************************************************
+# ✥ Title  :- Python loops
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 28 December 2020
+# ******************************************************
+# ✥ Program to calculate average heights
+# ******************************************************
 
 student_height = input("Enter a list of student heights: ").split()
 
