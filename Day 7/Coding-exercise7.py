@@ -1,4 +1,12 @@
-# Hangman Game
+# ******************************************************
+# ✥ Title  :- Hangman Game
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 28 December 2020
+# ******************************************************
+# ✥ Save the man from hanging!
+# ******************************************************
+
+
 from os import system
 import random
 from hangman_words import word_list
