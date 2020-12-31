@@ -1,10 +1,10 @@
-# Functions in Python
-# Syntax - def my_function():
-
-# I learned about functions and while loops on Day 6 but it was not directly just simple code so here I am providing link for each exercise.
-
-
-# The website name is Reeborg's world
+# ******************************************************
+# ✥ Title  :- Python Functions
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 29 December 2020
+# ******************************************************
+# ✥ Hurdles and maze problems from Reeborg's website
+# ******************************************************
 
 
 # Coding-exercise5.1: Hurdle 1
