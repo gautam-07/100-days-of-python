@@ -1,4 +1,10 @@
-# Band Name Generator
+# *******************************************************
+# ✥ Title  :- Python Variables
+# ✥ Author :- Gautam Khatter 🧐
+# ✥ Date   :- 24 December 2020
+# *******************************************************
+# ✥ Band Name Generator.
+# *******************************************************
 
 print("Welcome to the Band Name Generator")
 
