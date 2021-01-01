@@ -15,6 +15,7 @@ https://www.udemy.com/course/100-days-of-code/
 <li>Day 6 - Python Functions</li>
 <li>Day 7 - Hangman Game</li>
 <li>Day 8 - Function Parameters</li>
+<li>Day 9 - Dictionaries and Nesting</li>
 
 ## Intermediate Stage:-
 ## Advanced Stage:-
