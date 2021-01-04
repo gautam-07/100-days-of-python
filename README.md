@@ -17,6 +17,7 @@ https://www.udemy.com/course/100-days-of-code/
 <li>Day 8  - Function Parameters</li>
 <li>Day 9  - Dictionaries and Nesting</li>
 <li>Day 10 - Functions with outputs.</li>
+<li>Day 11 - Black-Jack Game.</li>
 
 ## Intermediate Stage:-
 ## Advanced Stage:-
