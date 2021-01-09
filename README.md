@@ -10,8 +10,7 @@ In this repository, I am sharing my journey of 100 days of Code Complete Python 
 
 <pre>
 <li>Day 1   :- Learning Python is not that easy that people make it sound like.
-            C++ is a lot easier than this. LOL 😅</li>
-
+              C++ is a lot easier than this. LOL 😅</li>
 <li>Day 100 :- ?</li>
 </pre>
 
@@ -21,7 +20,7 @@ In this repository, I am sharing my journey of 100 days of Code Complete Python 
 <li>Day 1  - Working with variables.</li>
 <li>Day 2  - Understanding Data Types and how to manipulate Strings.</li>
 <li>Day 3  - Control flow and logical operators.</li>
-<li>Day 4  - Randomisation and Python Lists</li>
+<li>Day 4  - Randomization and Python Lists</li>
 <li>Day 5  - Python loops</li>
 <li>Day 6  - Python Functions</li>
 <li>Day 7  - Hangman Game</li>
@@ -37,7 +36,7 @@ In this repository, I am sharing my journey of 100 days of Code Complete Python 
 <h2 align="center"> Intermediate Stage </h2> 
 
 <pre>
-<li>Day 15 - </li>
+<li>Day 15 - The Coffee Machine</li>
 </pre>
 <h2 align="center"> Advanced Stage </h2> 
 
