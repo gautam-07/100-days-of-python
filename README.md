@@ -12,6 +12,7 @@ by <a href="https://www.udemy.com/course/100-days-of-code/">Dr. Angela Yu</a> on
 <li>Day 100 :- ?</li>
 </pre>
 
+<br>
 <pre>
 <h2 align="center"> Beginner Stage </h2>
 <li>Day 1  - Working with variables.</li>
@@ -30,20 +31,20 @@ by <a href="https://www.udemy.com/course/100-days-of-code/">Dr. Angela Yu</a> on
 <li>Day 14 - Higher Lower Game Project</li>
 </pre>
 
-<br><br>
+<br>
 
 <pre>
 <h2 align="center"> Intermediate Stage </h2> 
 <li>Day 15 - The Coffee Machine</li>
 </pre>
 
-<br><br>
+<br>
 
 <pre>
 <h2 align="center"> Advanced Stage </h2> 
 </pre>
 
-<br><br>
+<br>
 <pre>
 <h2 align="center"> Professional Stage </h2>
 </pre>
