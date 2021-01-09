@@ -5,9 +5,6 @@
 <h1 align = "center"> <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python Development Journey</a></h1>
 In this repository, I am sharing my journey of 100 days of Code Complete Python Developer Bootcamp
 by Dr. Angela Yu on Udemy.
-</pre>
-
-<pre>
 <h3> Course Link:- </h3> <a href="https://www.udemy.com/course/100-days-of-code/">https://www.udemy.com/course/100-days-of-code/</a>
 </pre>
 
@@ -18,9 +15,8 @@ by Dr. Angela Yu on Udemy.
 <li>Day 100 :- ?</li>
 </pre>
 
-<h2 align="center"> Beginner Stage </h2>
-
 <pre>
+<h2 align="center"> Beginner Stage </h2>
 <li>Day 1  - Working with variables.</li>
 <li>Day 2  - Understanding Data Types and how to manipulate Strings.</li>
 <li>Day 3  - Control flow and logical operators.</li>
@@ -37,13 +33,21 @@ by Dr. Angela Yu on Udemy.
 <li>Day 14 - Higher Lower Game Project</li>
 </pre>
 
-<h2 align="center"> Intermediate Stage </h2> 
+<br><br>
 
 <pre>
+<h2 align="center"> Intermediate Stage </h2> 
 <li>Day 15 - The Coffee Machine</li>
 </pre>
+
+<br><br>
+
+<pre>
 <h2 align="center"> Advanced Stage </h2> 
+</pre>
 
+<br><br>
+<pre>
 <h2 align="center"> Professional Stage </h2>
-
+</pre>
 
