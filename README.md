@@ -1,14 +1,22 @@
 <h1 align = "center"> <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python Development Journey</a></h1>
 
 In this repository, I am sharing my journey of 100 days of Code Complete Python Developer Bootcamp by Dr. Angela Yu on Udemy.
-### Course Link:-
+
+<pre>
+<h3> Course Link:- </h3>
 https://www.udemy.com/course/100-days-of-code/
+</pre>
+
 ## The Journey Begins:-
-<li>Day 1   :-Learning Python is not that esay that people make it sound like. C++ is a lot easier than this. LOL 😅</li>
+
+<pre>
+<li>Day 1   :-Learning Python is not that easy that people make it sound like. C++ is a lot easier than this. LOL 😅</li>
 <li>Day 100 :- ?</li>
+</pre>
 
 <h2 align="center"> Beginner Stage </h2>
 
+<pre>
 <li>Day 1  - Working with variables.</li>
 <li>Day 2  - Understanding Data Types and how to manipulate Strings.</li>
 <li>Day 3  - Control flow and logical operators.</li>
@@ -23,9 +31,13 @@ https://www.udemy.com/course/100-days-of-code/
 <li>Day 12 - Scope and Number guessing game</li>
 <li>Day 13 - Debugging</li>
 <li>Day 14 - Higher Lower Game Project</li>
+</pre>
 
 <h2 align="center"> Intermediate Stage </h2> 
 
+<pre>
+<li>Day 15 - </li>
+</pre>
 <h2 align="center"> Advanced Stage </h2> 
 
 <h2 align="center"> Professional Stage </h2>
