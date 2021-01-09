@@ -4,13 +4,13 @@ In this repository, I am sharing my journey of 100 days of Code Complete Python 
 
 <pre>
 <h3> Course Link:- </h3>
-https://www.udemy.com/course/100-days-of-code/
+<a href="https://www.udemy.com/course/100-days-of-code/">https://www.udemy.com/course/100-days-of-code/</a>
 </pre>
 
 ## The Journey Begins:-
 
 <pre>
-<li>Day 1   :-Learning Python is not that easy that people make it sound like. C++ is a lot easier than this. LOL 😅</li>
+<li>Day 1   :-Learning Python is not that easy that people make it sound like.<br> C++ is a lot easier than this. LOL 😅</li>
 <li>Day 100 :- ?</li>
 </pre>
 
