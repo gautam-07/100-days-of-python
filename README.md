@@ -1,14 +1,17 @@
-<h1 align = "center"> <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python Development Journey</a></h1>
+<h2 align="center">H o l a &nbsp; A m i g o s <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h2>
 
+
+<pre>
+<h1 align = "center"> <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python Development Journey</a></h1>
 In this repository, I am sharing my journey of 100 days of Code Complete Python Developer Bootcamp by Dr. Angela Yu on Udemy.
+</pre>
 
 <pre>
 <h3> Course Link:- </h3> <a href="https://www.udemy.com/course/100-days-of-code/">https://www.udemy.com/course/100-days-of-code/</a>
 </pre>
 
-<h2 align="center"> The Journey Begins</h2>
-
 <pre>
+<h2 align="center"> The Journey Begins</h2>
 <li>Day 1   :- Learning Python is not that easy that people make it sound like.
               C++ is a lot easier than this. LOL 😅</li>
 <li>Day 100 :- ?</li>
