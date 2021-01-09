@@ -3,14 +3,14 @@
 In this repository, I am sharing my journey of 100 days of Code Complete Python Developer Bootcamp by Dr. Angela Yu on Udemy.
 
 <pre>
-<h4> Course Link:- <a href="https://www.udemy.com/course/100-days-of-code/">https://www.udemy.com/course/100-days-of-code/</a></h4>
+<h3> Course Link:- </h3> <a href="https://www.udemy.com/course/100-days-of-code/">https://www.udemy.com/course/100-days-of-code/</a>
 </pre>
 
 <h2 align="center"> The Journey Begins</h2>
 
 <pre>
-<li>Day 1   :-Learning Python is not that easy that people make it sound like.
-              C++ is a lot easier than this. LOL 😅</li>
+<li>Day 1   :- Learning Python is not that easy that people make it sound like.
+            C++ is a lot easier than this. LOL 😅</li>
 
 <li>Day 100 :- ?</li>
 </pre>
