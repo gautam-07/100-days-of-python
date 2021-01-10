@@ -4,7 +4,7 @@
 <pre>
 <h1 align = "center"> <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python Development Journey</a></h1>
 In this repository, I am sharing my journey of 100 days of Code Complete Python Developer Bootcamp
-by <a href="https://www.udemy.com/course/100-days-of-code/">Dr. Angela Yu</a> on <a href="https://www.udemy.com/">Udemy</a>.
+by <a href="https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/">Dr. Angela Yu</a> on <a href="https://www.udemy.com/">Udemy</a>.
 <h3> Course Link:- </h3> <a href="https://www.udemy.com/course/100-days-of-code/">https://www.udemy.com/course/100-days-of-code/</a>
 <h2 align="center"> The Journey Begins</h2>
 <li>Day 1   :- Learning Python is not that easy that people make it sound like.
