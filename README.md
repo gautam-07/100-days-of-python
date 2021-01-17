@@ -38,6 +38,7 @@ by <a href="https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/">Dr
 <li>Day 15 - The Coffee Machine</li>
 <li>Day 16 - OOP's Concept and The Coffee Machine Program Using OOP's</li>
 <li>Day 17 - The Quiz Project And The Benefits Of OOP's</li>
+<li>Day 18 - Turtle & The Graphical User Interface  {GUI}</li>
 </pre>
 
 <br>
